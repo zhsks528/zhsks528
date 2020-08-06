@@ -3,12 +3,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://www.neulsang.life/)](https://www.neulsang.life/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hsm950825/)](https://www.instagram.com/hsm950825/)
 
-- 💻 Junior Developers Interested in Web and Infrastructure
-- ⏰ I think **consistency** is my biggest strength.
-- 📝 I mainly use Javascript and Python, and I am interested in new technology.
-- 🙌 I enjoy meeting good developers and talking about development.
-- 🌈 My dream is to develop a meaningful service that many people can use.
-
 **Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
