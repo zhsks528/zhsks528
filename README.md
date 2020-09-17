@@ -1,7 +1,7 @@
 ### Hello👋 My name is Seongmin <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhsks528)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://www.neulsang.life/)](https://www.neulsang.life/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hsm950825/)](https://www.instagram.com/hsm950825/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/s_min_._.95/)](https://www.instagram.com/s_min_._.95/)
 
 **Languages and Tools**  
 
